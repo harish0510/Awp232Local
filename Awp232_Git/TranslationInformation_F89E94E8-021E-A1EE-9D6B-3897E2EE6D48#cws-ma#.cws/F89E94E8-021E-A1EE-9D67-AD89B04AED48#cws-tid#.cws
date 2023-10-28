@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="F89E94E8-021E-A1EE-9D67-AD89B04B2D48">
+	<DocumentID>F89E94E8-021E-A1EE-9D67-AD89B04AED48</DocumentID>
+	<Name>F89E94E8-021E-A1EE-9D67-AD89B04AED48</Name>
+	<Description>BPM1</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-10-28T16:15:08.484</CreationDate>
+	<Notes/>
+	<DefaultText>BPM1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="F89E94E8-021E-A1EE-9D6B-3897E2EDED48"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="F89E94E8-021E-A1EE-9D67-AD89B04B6D48"
+		/>
+	</Translations>
+</TextIdentifier>
