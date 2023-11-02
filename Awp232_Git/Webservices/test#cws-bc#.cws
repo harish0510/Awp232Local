@@ -1,0 +1,35 @@
+
+<BusinessCalendar
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.buscalendar.modeler.BusinessCalendar"
+	typeVersion="00215A63-1B7C-11E1-F726-F40D37CB547D"
+	RuntimeDocumentID="F89E94E8-021A-A1EE-9E51-2DDD430E2D4C">
+	<DocumentID>F89E94E8-021A-A1EE-9E51-2DDD430DED4C</DocumentID>
+	<Name>test</Name>
+	<Description>test</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-11-02T05:59:03.771</CreationDate>
+	<Notes/>
+	<TimeZone>Asia/Calcutta</TimeZone>
+	<CalendarException/>
+	<DaySegments>
+		<DaySegment
+			type="com.cordys.buscalendar.modeler.DaySegment"
+			RuntimeDocumentID="F89E94E8-021A-A1EE-9E51-2DDD430CED4C">
+			<DocumentID>F89E94E8-021A-A1EE-9E51-2DDD430CAD4C</DocumentID>
+			<Name>DaySegment_F89E94E8-021A-A1EE-9E51-2DDD430C6D4C</Name>
+			<Description>DaySegment_F89E94E8-021A-A1EE-9E51-2DDD430C6D4C</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2023-11-02T05:59:03.772</CreationDate>
+			<Notes/>
+			<Day>Monday</Day>
+			<EndTime>17:00</EndTime>
+			<StartTime>09:00</StartTime>
+			<BusinessCalendar>
+				<uri
+					id="F89E94E8-021A-A1EE-9E51-2DDD430DED4C"
+				/>
+			</BusinessCalendar>
+		</DaySegment>
+	</DaySegments>
+</BusinessCalendar>
